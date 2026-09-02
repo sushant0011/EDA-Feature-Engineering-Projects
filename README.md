@@ -39,7 +39,7 @@ jupyter notebook
 ```
 
 ## 📌 About
-Yeh notebooks meri data analysis aur feature engineering practice ka hissa hain — real datasets par hands-on kaam karke EDA workflow aur feature transformation techniques sharpen karne ke liye.
+These notebooks are part of my data analysis and feature engineering practice—aimed at sharpening my EDA workflow and feature transformation techniques through hands-on work with real datasets.
 
 ## 📄 License
 This project is open source and available under the [MIT License](LICENSE).
