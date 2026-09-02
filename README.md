@@ -1,7 +1,6 @@
 # EDA & Feature Engineering Projects
 
-Is repository me maine alag-alag datasets par kiya gaya **Exploratory Data Analysis (EDA)** aur **Feature Engineering** ka kaam collect kiya hai. Har notebook ek real-world dataset ko explore karta hai — missing values, distributions, outliers, correlations dekhta hai, aur model-ready features banata hai.
-
+In this repository, I have compiled work related to **Exploratory Data Analysis (EDA)** and **Feature Engineering** performed on various datasets. Each notebook explores a real-world dataset—examining missing values, distributions, outliers, and correlations—and creates model-ready features.
 ## 📁 Projects
 
 | # | Notebook | Dataset | Highlights |
